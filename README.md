@@ -107,6 +107,7 @@ __Additional Resources:__
 * 🛠 [WCAG - Contrast Checker](https://contrastchecker.com/)
 * 🛠 [Color Safe - accessible web color combinations](http://colorsafe.co/)
 * 🛠 [Coolors.co - The super fast color schemes generator](https://coolors.co/)
+* 🛠 [Branition Colors - Hand-curated collection of color palettes best fitted for branding](https://branition.com/colors)
 
 **[⬆ back to top](#table-of-contents)**
 
